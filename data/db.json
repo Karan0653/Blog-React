@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "begrjnrkgnr jwnrflerof rnvniefngierm nfnkg qqomefwoierfoi jvnrn  iodfslingitj nbon gewngoen",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "tip toe",
+      "body": "begrjnrkgnr jwnrflerof rnvniefngierm nfnkg qqomefwoierfoi jvnrn  iodfslingitj nbon gewngoen",
+      "author": "yoshi",
+      "id": "2"
+    }
+  ]
+}
